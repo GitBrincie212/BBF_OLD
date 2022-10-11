@@ -1,0 +1,21 @@
+# This Program Writes "Welcome to BBF" Using Beyond Brainfuck
+# This Uses a Lot of Operators Such as the Instruction Block, Reset Operator and Others
+# Its Written As Small as Possible
+
+⧆ ➕➕➕➕➕➕➕➕➕➕➕➕➕➕➕➕﹢;  # Long Incremental Instruction Block To Not Repeat Ourselves
+⧆ ➕➕➕➕➕➕➕➕|.| >; # This Prints the Character "e" which is Used twice on our Program for "Welcome"
+⧆ ➕➕➕➕➕➕➕➕➕➕➕➕➕➕➕➕➕➕➕;  # Another Long Incremental Instruction Block To Not Repeat Ourselves
+⊞⊞⊡➕➕＋|.|;  # Reference the Third Instruction Block On the Function Tape And Print Character "W"
+➕➕➕﹢|.|꛷;
+
+⊡⊟⊡;
+⊞⊡➕➕➕➕➕＋|.| >;
+꛷⊡➕➕➕➕➕➕➕➕＋|.|꛷;
+⊡➕➕➕➕➕➕➕➕+|.| >;
+꛷⊡⊟⊟➕➕➕➕➕➕+|.| >;
+⊞⊡;
+⊞⊡⊟⊟➕➕|.|;
+➕➕➕➕➕➕＋|.| >;
+⊞⊡⊟;
+⊡|.||.| >;
+⊡➕|.| >;

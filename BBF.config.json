@@ -1,0 +1,19 @@
+{
+  "Processing": {
+  "Simplification": {
+    "Enabled": true
+    },
+    "Redundant Trashout": {
+      "Enabled": true
+    }
+  },
+  "Syntax": {
+
+  },
+  "Debugging": {
+    "Warnings": {
+       "Enabled": true
+    },
+    "Colored": true
+  }
+}
