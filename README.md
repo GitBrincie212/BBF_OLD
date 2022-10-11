@@ -19,5 +19,8 @@ But It Has Rules To Follow, Here are All Rules that Must Be Followed
 2. [ ] `If Possible, Use Advanced Operators For Less Lines Of Code`
 3. [ ] `For Lined Functions, Place Them First`
 
-**BBF** Also Has Documentations Which Can Be Viewed Either By The HTML Files Or By Markdown Files, A Example Can Be How 
-Lined Functions Work, The Advanced Operators And More
+
+There are Plans Such As:
+
+*Documentations Which Can Be Viewed Either By The HTML Files Or By Markdown Files, A Example Can Be How 
+Lined Functions Work, The Advanced Operators And More*
